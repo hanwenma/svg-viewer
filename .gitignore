@@ -1,0 +1,21 @@
+
+.DS_Store
+.history/
+
+node_modules/
+**/node_modules/
+
+# Editor directories and files
+.idea
+
+# .vscode
+*.suo
+*.history
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+node_modules
+*.zip
+*.zip
+*.7z
